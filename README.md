@@ -2,7 +2,7 @@
 
 Below link explains the steps by which this code is generated.
 
-https://coursecs.wordpress.com/courses/advance-web-development/registration-form/
+https://coursecs.wordpress.com/courses/advance-web-development/registration-form-ready-to-communicate-with-backend-project/
 
 Below video link for explanation of this code.
 
