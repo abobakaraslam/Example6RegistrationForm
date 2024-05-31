@@ -1,14 +1,9 @@
 // File: Register.jsx located in root-directory/src/component/
+
 import React from "react";
 import { useState } from "react";
 
 function Register() {
-  //initializing and setting values for name input
-  const [name, setName] = useState(""); //initialize name with null value
-  const onChangeHandleName = (event) => {
-    //name of variable "event" can be changed
-    setName(event.target.value);
-  };
   //initialize states for all input fields
   const [allInputData, setInputData] = useState({
     name: "",
